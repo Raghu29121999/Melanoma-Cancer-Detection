@@ -27,10 +27,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Model Training accuracy ~ 0.8817
+- Validation Accuracy is ~ 0.74
+- Model accuracy increase by increasing adding more epochs 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
