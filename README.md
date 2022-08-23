@@ -35,7 +35,7 @@
 ##### Model 2
 - model 2 accuarcy decreased compare to model 1
 
-*Seborrheic keratosis has least number of samples 
+* Seborrheic keratosis has least number of samples 
 
 * Actinic keratosis & Dermatofibroma classes dominate the data in terms proportionate number of samples
 
@@ -56,8 +56,6 @@
 - matplotlib
 - numpy 
 - pandas
-- glob
-
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
