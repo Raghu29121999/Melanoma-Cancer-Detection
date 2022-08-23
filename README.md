@@ -12,7 +12,7 @@
 
 ## General Information
 - The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
-- By Visualizing Data there are 9 classes of Cancer M
+##### By Visualizing Data there are 9 classes of Cancer M
 
 * Actinic keratosis
 * Basal cell carcinoma
@@ -28,18 +28,18 @@
 
 ## Conclusions
 
-* Model 1
+##### Model 1
 - Model Training accuracy ~ 0.87 %
 - Validation Accuracy is ~ 0.50% 
 - Model is over fit
-*Model 2
+##### Model 2
 - model 2 accuarcy decreased compare to model 1
 
 *Seborrheic keratosis has least number of samples 
 
 * Actinic keratosis & Dermatofibroma classes dominate the data in terms proportionate number of samples
 
-* Model 3
+##### Model 3
 
 - Model Training accuracy ~ 0.8817
 - Validation Accuracy is ~ 0.74
